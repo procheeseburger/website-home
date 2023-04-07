@@ -2,7 +2,7 @@
 
 <div class="container h-full mx-auto flex justify-center items-center">
 	<div class="space-y-10 text-center">
-		<h2 class="font-bold">Welcome to Skeleton.</h2>
+		<h2 class="font-bold">Procheeseburger</h2>
 		<!-- Animated Logo -->
 		<figure>
 			<section class="img-bg" />
@@ -21,7 +21,7 @@
 		<div class="flex justify-center space-x-2">
 			<a
 				class="btn btn-filled"
-				href="https://skeleton.dev/"
+				href="https://docs.procheeseburger.com/"
 				target="_blank"
 				rel="noreferrer"
 			>
